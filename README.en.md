@@ -534,6 +534,11 @@ run it in Termux. The detail is in
 
 ---
 
+## Access & License
+
+This repository is **my own work**, **Mochamad Ismail Soleh** (Ismail-IndoTech), and is specifically licensed under the **[MIT License](LICENSE)**.
+
+To obtain access to the **private source repository** for this project, contact me as the **Repository Creator** via WhatsApp using the number registered to my DANA account: **08121600058** — [wa.me/628121600058](https://wa.me/628121600058). Access is granted by agreement.
 ## 💖 Contribution & Sponsorship
 
 If this platform enhances your IT operations, DevOps workflows, or server management efficiency, consider supporting the project as an official contributor or **Special Sponsor**.  

@@ -517,6 +517,11 @@ Berkas jawaban (`~/.devkit-answers`) mencatat persis apa yang dipasang.
 
 ---
 
+## Akses & Lisensi
+
+Repositori ini adalah **karya saya sendiri**, **Mochamad Ismail Soleh** (Ismail-IndoTech), dan dilisensikan secara khusus di bawah **[MIT License](LICENSE)**.
+
+Untuk memperoleh akses ke **repositori sumber (privat)** dari proyek ini, silakan hubungi saya sebagai **Creator Repo** melalui WhatsApp di nomor yang terdaftar pada akun DANA saya: **08121600058** — [wa.me/628121600058](https://wa.me/628121600058). Akses diberikan sesuai kesepakatan.
 ## Berkontribusi
 
 Kontribusi sangat diterima, termasuk yang kecil. `devkit doctor` ada karena ada yang
